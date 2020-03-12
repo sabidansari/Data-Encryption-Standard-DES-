@@ -187,7 +187,7 @@ public class des {
         temp=binToStr(temp);
         return temp;
     }
-    public static void main(String...des) {
+    public static void main(String...sabidDES) {
         des d=new des();
         String plaintext="123456ABCD132536";
         String key="AABB09182736CCDD";
